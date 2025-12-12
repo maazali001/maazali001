@@ -1,0 +1,17 @@
+name: GitHub Snake Animation
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ye daily run karega
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          background_color: '000000'   # Background color
+          color: '00FF00'              # Snake color
+          square_size: 20              # Snake block size
+          frame_delay: 100             # Animation speed
