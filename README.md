@@ -19,8 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maazali001)](https://www.linkedin.com/in/maazali001)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/maazali001)](https://twitter.com/maazali001)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/maybe__lostt)](https://instagram.com/maybe__lostt)
-
-## 🐍 GitHub Contribution Snake
-
 ![GitHub Snake](https://github.com/maazali001/maazali001/raw/main/snake.gif)
+
+
 
