@@ -5,4 +5,4 @@ Welcome to my GitHub Profile!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maazali001&show_icons=true&theme=radical)
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maazali001&theme=radical&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=maazali001&theme=dark_dimmed&row=1&column=6)
