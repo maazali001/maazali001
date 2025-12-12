@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&width=600&lines=Passionate+Coder;Open+Source+Enthusiast;Tech+Lover)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maazali001&theme=react-dark&area=true)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=maazali001&show_icons=true&theme=radical)
 ## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maazali001)](https://www.linkedin.com/in/maazali001)
